@@ -5,9 +5,9 @@ Just create a database in MySql through the below mentioned details and import t
 
 Database details:-
 
-database name = employeerecords
-table name = employee
-rows = name, job, salary
+database name = employeerecords||
+table name = employee||
+rows = name, job, salary||
 
 Features:
 1. Display records
